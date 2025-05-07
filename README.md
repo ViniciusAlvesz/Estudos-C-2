@@ -1,7 +1,7 @@
 # Estudos-C-2
 Aqui estão mais alguns trabalhos relacionados ao início da minha jornada aprendendo a linguagem C, a parte 2.
 
-##Arquivos
+## Arquivos
 
 ### `somaAoQuadrado.c`
 Nesse código, utilizei de variáveis inteiras armazenarem 3 valores solicitados pelo usuário através de um comando de `scanf()`, assim, após os 3 valores serem informados, cada um será multiplicado por ele mesmo e somado aos demais, realizando uma soma dos 3 quadrados de cada valor e informando ao usuário.
